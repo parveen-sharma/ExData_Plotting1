@@ -1,6 +1,6 @@
 # exploratory-data-analysis
 
-## Contains four files of R program and four output (image) files
+## Contains four program (R) files and four output (image) files
 * R code [plot1.R] and image file generated [plot1.PNG]
 * R code [plot2.R] and image file generated [plot2.PNG]
 * R code [plot3.R] and image file generated [plot3.PNG]
