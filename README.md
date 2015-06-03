@@ -33,11 +33,8 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
+
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
@@ -114,7 +111,7 @@ The four plots that you will need to construct are shown below.
 
 
 ## Result Codes
-### Contains four files of R program and four output (image) files
+### Contains four program (R) files and four output (image) files
 * R code [plot1.R] and image file generated [plot1.PNG]
 * R code [plot2.R] and image file generated [plot2.PNG]
 * R code [plot3.R] and image file generated [plot3.PNG]
